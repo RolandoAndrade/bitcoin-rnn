@@ -2,6 +2,9 @@
 
 Este proyecto utiliza una red neuronal recurrente (RNN) para analizar el precio de Bitcoin y predecir sus fluctuaciones.
 
+![descarga](https://github.com/user-attachments/assets/67d28840-73b7-4dbe-a1f9-7de5f6988dbe)
+
+
 ## Descripción
 
 El proyecto se divide en una parte teórica y una práctica:
